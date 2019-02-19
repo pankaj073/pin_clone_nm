@@ -1,0 +1,24 @@
+{
+  "name": "pin_clone_nm",
+  "version": "1.0.0",
+  "description": "Pinterest Clone Backend with Node JS and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaj073/pin_clone_nm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankaj073/pin_clone_nm/issues"
+  },
+  "homepage": "https://github.com/pankaj073/pin_clone_nm#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
